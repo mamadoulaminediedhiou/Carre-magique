@@ -29,7 +29,7 @@ Deux cas peuvent alors se présenter:
 Cet algorithme utilise  un **Makefile**. Pour compiler le programme,ouvrez le terminal,
 placez-vous dans le dossier du projet et tapez **make** cela compilera tous les fichiers sources et générera
 un exécutable Main
-**Execution**
+# Execution
 Pour excuter le programme,lancer **./Main**
 
 
