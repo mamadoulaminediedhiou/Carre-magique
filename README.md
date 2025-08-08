@@ -11,7 +11,7 @@ de déduire si la case pointée est libre ou non.
 
 **Etape 2 — Placement du 1**
 
-Le chiffre 1 est placé dans la case au milieu  de la dernière ligne du carré (case d'indice (n,(n+1)/2)).
+Le chiffre 1 est placé dans la case au milieu  de la dernière ligne du carré (case de coordonnée (n,(n+1)/2)).
 
 **Etape 3 Règles de déplacement**
 
