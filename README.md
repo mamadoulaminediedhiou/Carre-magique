@@ -40,5 +40,6 @@ Pour excuter le programme,lancer **./Main**
 vous pouvez décommenter les deux lignes suivantes dans le fichier Carre.c :
 
 // afficher(t, n);
+
 // printf("\n");
 
