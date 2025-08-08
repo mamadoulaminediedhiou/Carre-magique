@@ -32,20 +32,6 @@ un exécutable Main
 **Execution**
 Pour excuter le programme,lancer **./Main**
 
-**Exemple de sortie**
-
-Donner l'ordre de votre carre magique:7                  
-Le carre magique d'ordre 7:        
-
-22 31 40 49 2 11 20 
-21 23 32 41 43 3 12 
-13 15 24 33 42 44 4 
-5 14 16 25 34 36 45 
-46 6 8 17 26 35 37 
-38 47 7 9 18 27 29 
-30 39 48 1 10 19 28 
-
-Le carre genere est bien magique.La constante magique est egale à:175
 
 **Si vous souhaitez voir chaque étape du remplissage du carré magique**, 
 vous pouvez décommenter les deux lignes suivantes dans le fichier Carre.c :
