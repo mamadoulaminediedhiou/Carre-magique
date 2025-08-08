@@ -4,14 +4,17 @@ Cet algorithme construit un **carré magique d'ordre impair** en langage **C**, 
 Un **carré magique** est une grille carrée contenant des entiers positifs distincts tels que la somme de chaque ligne, chaque colonne et chaque diagonale est identique.
 
 **Etape 1  — Initialisation**
+
 On commence par initialiser tous les éléments du tableau à zéro. 
 L'initialisation à zéro de tous les éléments du carré permettra ultérieurement 
 de déduire si la case pointée est libre ou non.
 
 **Etape 2 — Placement du 1**
+
 Le chiffre 1 est placé dans la case au milieu  de la dernière ligne du carré (case d'indice (n,(n+1)/2)).
 
 **Etape 3 Règles de déplacement**
+
 Une fois qu'une case a été remplie, on en choisit une autre en effectuant, 
 par rapport à la case qui vient d'être remplie précédemment, deux mouvements successifs :
 
